@@ -1,0 +1,5 @@
+package com.kelompok_5.nama_aplikasi
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
